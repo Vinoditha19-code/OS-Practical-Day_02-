@@ -47,6 +47,8 @@ Practical_02.
 ![Screenshot (794)](https://github.com/user-attachments/assets/47f7aed7-7c6f-41d5-8c7e-0838f1cf67e4)
 ![Screenshot (793)](https://github.com/user-attachments/assets/e09c26e9-7ac3-4145-9804-92d07746175f)
 ![Screenshot (792)](https://github.com/user-attachments/assets/3caa7829-98f8-446e-9dcb-7478b2353f27)
+![Screenshot (798)](https://github.com/user-attachments/assets/99a6ea84-fa13-4772-949a-c7bf0c63bb70)
+
 
 Practical_03.
 ![Screenshot (804)](https://github.com/user-attachments/assets/42b95642-33e0-4c8a-ae79-a67142965a29)
