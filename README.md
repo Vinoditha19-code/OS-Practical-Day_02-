@@ -32,20 +32,29 @@ Some more linux commands,
 04. ls - ltr : Lists files in long format(-l) , sorted by modification time(-t), in reverse order(-r)
 05. ls - a : List all files, including hidden files (files starting with.) 
 
+Practical_01. 
+![Screenshot (805)](https://github.com/user-attachments/assets/ba3d1c77-b634-414a-9130-8ebb9912ff66)
+![Screenshot (803)](https://github.com/user-attachments/assets/db3af328-c7a8-4487-b340-5209bc8c54b5)
+![Screenshot (802)](https://github.com/user-attachments/assets/5b70ca49-e7ef-4640-92b3-9e4510fa282c)
+![Screenshot (801)](https://github.com/user-attachments/assets/7fe54bbf-96f1-45e2-b8a1-3bdda2046ca7)
+![Screenshot (800)](https://github.com/user-attachments/assets/4430a76a-e610-43c7-8e62-ff9d71d4f307)
+![Screenshot (799)](https://github.com/user-attachments/assets/9c130523-a8ae-4daf-bee3-b8dea1582e20)
 
-![Screenshot (795)](https://github.com/user-attachments/assets/61bfe578-d280-4d3c-9cde-96719257eaf9)
-![Screenshot (794)](https://github.com/user-attachments/assets/cf268fea-9b0a-4594-bfd8-ba7f4b4bb789)
-![Screenshot (793)](https://github.com/user-attachments/assets/868364db-0f6e-475b-b1da-8c73cfb5ef6f)
-![Screenshot (792)](https://github.com/user-attachments/assets/9d462118-4062-40e8-8c44-9fa9c9024115)
-![Screenshot (804)](https://github.com/user-attachments/assets/e0fae819-4e22-4c04-9272-b494a9099a03)
-![Screenshot (803)](https://github.com/user-attachments/assets/b015e221-2a95-47f8-815a-0d223e676cac)
-![Screenshot (802)](https://github.com/user-attachments/assets/0b31b8d7-82c9-4b5d-bb26-e70160594e17)
-![Screenshot (798)](https://github.com/user-attachments/assets/9165df82-9a97-480c-be98-0a6fb9917bb5)
-![Screenshot (797)](https://github.com/user-attachments/assets/449239f7-8f71-4713-8695-72387cb7c75d)
-![Screenshot (796)](https://github.com/user-attachments/assets/67824160-677e-4157-94ac-1362b03deab9)
-![Screenshot (804)](https://github.com/user-attachments/assets/3c3ace8a-dbbe-4e75-aff3-0b734eacd77e)
-![Screenshot (803)](https://github.com/user-attachments/assets/b80882f3-d006-472c-a934-877cb10b8142)
-![Screenshot (802)](https://github.com/user-attachments/assets/41f5ce87-31ad-451c-967e-cdbff889a46e)
+Practical_02.
+![Screenshot (797)](https://github.com/user-attachments/assets/e683371a-fd0a-4dfd-a3f9-df65070692b2)
+![Screenshot (796)](https://github.com/user-attachments/assets/df86238f-a8f1-454c-9d5c-518a1cad874b)
+![Screenshot (795)](https://github.com/user-attachments/assets/1c2b1a87-8cbb-42a4-8360-78d0ed9c1652)
+![Screenshot (794)](https://github.com/user-attachments/assets/47f7aed7-7c6f-41d5-8c7e-0838f1cf67e4)
+![Screenshot (793)](https://github.com/user-attachments/assets/e09c26e9-7ac3-4145-9804-92d07746175f)
+![Screenshot (792)](https://github.com/user-attachments/assets/3caa7829-98f8-446e-9dcb-7478b2353f27)
+
+Practical_03.
+![Screenshot (804)](https://github.com/user-attachments/assets/42b95642-33e0-4c8a-ae79-a67142965a29)
+
+
+
+
+
 
 
    
