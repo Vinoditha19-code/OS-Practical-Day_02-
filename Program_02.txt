@@ -1,0 +1,6 @@
+//Display Username & Windows using cmd Command
+
+@echo off
+echo username : %username%
+echo windows version: %version%
+pause
